@@ -1,8 +1,9 @@
 # mkrt
-## Requeirement
-- NodeJs >= V16
-## Installing
-- Run command `npm i`
+## Requirement
+- Please install NodeJs >= V16
+## Installation
+- `cd` to this project directory
+- run command `npm i`
 ## Run
 - `npm run start`
 ## Run Test
